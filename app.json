@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "smart-chocolates",
+    "slug": "snack-acce463f-4d51-4388-9278-2c53c840099f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.willos.snackacce463f4d51438892782c53c840099f"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "816ae0ad-a5ed-41c1-9f79-2a1f45311021"
+      }
+    },
+    "owner": "willos"
+  }
+}
